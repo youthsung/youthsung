@@ -1,4 +1,5 @@
-<img width="498" height="498" alt="Chikawa Sticker – Chikawa – discover and share GIFs" src="https://github.com/user-attachments/assets/96394197-63d6-4376-8a54-1ff81c0826b4" />
+<img width="550" height="550" alt="“熊子哥动图表情包”" src="https://github.com/user-attachments/assets/338a58de-6abe-4252-8d6d-13491a9e24a7" />
+
 
 ![](https://komarev.com/ghpvc/?username=youthsung&color=FFF0F0)
 
