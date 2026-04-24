@@ -1,4 +1,4 @@
-<img width="498" height="498" alt="111 Sticker - 111 - GIF を見つけて共有する (2)" src="https://github.com/user-attachments/assets/04b08de7-c03a-4d6f-af81-7badfdd962a6" />
+<img width="498" height="498" alt="111 Sticker - 111 - GIF を見つけて共有する (2)" src="https://github.com/user-attachments/assets/35545515-5cb4-4835-ab67-4dc2d7aec257" />
 
 ![](https://komarev.com/ghpvc/?username=youthsung&color=FFF0F0)
 
